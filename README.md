@@ -26,8 +26,7 @@ Requirements:
 - Visual Studio 2010 or Newer Version [for editing the source]
 - Windows XP / Win 7 / Win 8 / Win 10 / Win 11
 
-Do you get full source code?
-Yes, you get full source code & include logo PSD files.
+full source code & logo PSD files.
 
 Do you have an idea?
 Do you have an idea that you think to improve this item and applcation performance
