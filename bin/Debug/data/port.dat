@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<Set xmlns="http://www.share-tricks.info/">
+  <Port>
+    <Lport>1194</Lport>
+    <Rport>53</Rport>
+  </Port>
+</Set>

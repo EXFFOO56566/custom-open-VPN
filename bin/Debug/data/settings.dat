@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<Set xmlns="http://prothemes.biz/">
+  <Options>
+    <Ping>True</Ping>
+    <Reconnect>True</Reconnect>
+    <Header>False</Header>
+    <Startup>True</Startup>
+    <Page>False</Page>
+    <Url>http://prothemes.biz/</Url>
+  </Options>
+  <Pinger>
+    <IP>google.com</IP>
+    <Pingdata>8</Pingdata>
+    <Continue>True</Continue>
+  </Pinger>
+  <Proxy>
+    <Proxyadd>89.134.52.30</Proxyadd>
+    <Proxyenable>False</Proxyenable>
+    <Proxyport>8080</Proxyport>
+    <Host>fb.me</Host>
+    <Online>fb.me</Online>
+  </Proxy>
+</Set>
